@@ -1,0 +1,4 @@
+pdfplumber
+PyYAML
+requests
+redis

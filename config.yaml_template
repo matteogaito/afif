@@ -1,0 +1,10 @@
+firefly:
+  api_token: "xxx"
+  url: "https://budget.local"
+
+account:
+  source_id: 13
+
+redis:
+  host: "localhost"
+  port: 6379
